@@ -1,5 +1,5 @@
-- Oie, eu sou o @vegaCHcode
-- Curso Mecatrônica no IFTO de 2023 até 2025
-- Estou aprendendo diversar linguagens diferentes.
-- Aqui é só pra uso de diversão, não pretendo tornar esse perfil profissional
-- Meu instagram é @snwflakwch
+- Hi, I'm @vegaCHcode
+- I'm studying Mechatronics at IFTO from 2023 to 2025
+- I'm learning several different programming languages.
+- This is just for fun, I don't intend to make this a professional profile.
+- My Instagram is @chscharvalho
